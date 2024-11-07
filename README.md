@@ -1,7 +1,6 @@
 
-<img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/5b18e804-831f-4b02-b46a-dfab085b2660">
-<h1 align="center" >Hi 👋, I'm Nguyen Ngoc Trai</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+<img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /> </p>
 
