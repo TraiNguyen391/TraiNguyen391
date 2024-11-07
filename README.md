@@ -1,6 +1,3 @@
-<a href="#" target="_blank">
-  <img src="svg/vandoan.svg" width="1200" alt="trungquandev-official" />
-</a>
 
 <img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/5b18e804-831f-4b02-b46a-dfab085b2660">
 <h1 align="center" >Hi 👋, I'm Nguyen Ngoc Trai</h1>
