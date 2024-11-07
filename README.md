@@ -2,7 +2,7 @@
 
 <h1 align="center">&ensp;</h1>
 
-<h3 align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical" alt="TraiNguyen391" /></a></p></h3>
+<h3 align="center"><p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical" alt="TraiNguyen391" /></a></p></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /></p>
 
