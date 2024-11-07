@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2">
 
-<h1 align="center">&ensp;</h1>
+<h1 align="center"><| Time flies, enjoy life |></h1>
 
 <h3 align="center"><p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical" alt="TraiNguyen391" /></a></p></h3>
 
