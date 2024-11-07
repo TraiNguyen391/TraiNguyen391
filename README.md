@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Trai</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745307">
+![COOL PIXEL GIF_](https://github.com/user-attachments/assets/19b4994b-9e06-4357-b326-90195019f400)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391" alt="TraiNguyen391" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical" alt="TraiNguyen391" /></a> </p>
 
 - 🔭 I’m currently working on [...](...)
 
