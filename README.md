@@ -6,9 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /></p>
 
-- 🔭 I’m currently working on [...](...)
+- 🔭 I’m currently working on [FPT University ](...)
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on [...](...)
 
