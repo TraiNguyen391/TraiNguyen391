@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning on [FPT University ](https://daihoc.fpt.edu.vn/)
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Hidden**
 
 - 👯 I’m looking to collaborate on [...](...)
 
