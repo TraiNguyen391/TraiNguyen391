@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [...](...)
 
-- ⚡ Fun fact **I love to play rhythm game and strategy game**
+- ⚡ Fun fact **I love playing rhythm games and strategy games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
