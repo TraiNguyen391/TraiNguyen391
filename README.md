@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2">
+<img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2">
 
-<h1 align="center">🎮 | Time flies, enjoy life | 🎮</h1>
+<h1 align="center">| Time flies, enjoy life |</h1>
 
 <p align="center">
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical&margin-w=10&margin-h=10" alt="Trophies" /></a>
