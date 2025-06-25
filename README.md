@@ -10,6 +10,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=ff00ff&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me:
