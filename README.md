@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2">
-
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2" alt="Coding Banner" width="100%" style="max-height: 300px; object-fit: cover;" />
+</p>
 
 <h1 align="center">| Time flies, enjoy life |</h1>
 
