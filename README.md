@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">| Time flies, enjoy life |</h1>
-
+---
 <p align="center">
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical&margin-w=10&margin-h=10" alt="Trophies" /></a>
 </p>
