@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=00ffff&style=plastic" alt="Profile Views" style="border-radius: 8px;" />
+  <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=00ffff&style=plastic" alt="Profile Views" style="padding: 3px; border-radius: 8px; background: #0f0f0f; box-shadow: 0 0 10px #00ffff;" />
 </p>
 
 ---
