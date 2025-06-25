@@ -3,12 +3,14 @@
 </p>
 
 <h1 align="center">| Time flies, enjoy life |</h1>
----
+
 <p align="center">
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical&margin-w=10&margin-h=10" alt="Trophies" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-9999-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+</p>
 
 ---
 
