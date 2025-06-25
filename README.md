@@ -42,5 +42,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TraiNguyen391&theme=neon&show_icons=true&locale=en" alt="TraiNguyen391" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=neon&show_icons=true" alt="TraiNguyen391" /></p>
 
-
+![Visitor Count](https://profile-counter.glitch.me/TraiNguyen391/count.svg)
 
