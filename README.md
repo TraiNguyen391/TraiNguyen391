@@ -10,27 +10,17 @@
 
 ---
 
-- 🔭 I’m currently learning on [FPT University ](https://daihoc.fpt.edu.vn/)
+## 👨‍💻 About Me:
 
-- 🌱 I’m currently learning **Hidden**
+- 🎓 Currently studying at [FPT University](https://daihoc.fpt.edu.vn/)  
+- 🌱 Constantly learning new things in **IoT, Embedded Systems, Game Development**  
+- 🎮 Passionate about **Rhythm Games & Strategy Games**  
+- 📫 Reach me at: **ngoctrainguyen204@gmail.com**  
+- ⚡ Fun fact: *I often get addicted to coding late at night 😴*
 
-- 👯 I’m looking to collaborate on [...](...)
+---
 
-- 🤝 I’m looking for help with [...](...)
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
-
-- 💬 Ask me about **...**
-
-- 📫 How to reach me **ngoctrainguyen204@gmail.com**
-
-- 📄 Know about my experiences [...](...)
-
-- ⚡ Fun fact **I love playing rhythm games and strategy games**
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://x.com/VikorizDekoil" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="@vikorizdekoil" height="30" width="30" /></a>
 <a href="https://www.facebook.com/sabervmv.cool.3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="tn nguyen" height="30" width="30" /></a>
@@ -38,8 +28,21 @@
 <a href="http://discordapp.com/users/681832037073944616" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/741/082/non_2x/discord-logo-icon-social-media-icon-free-png.png" alt="resonance136" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbean" width="40" height="40"/> </a></p>
+---
+
+## 🛠️ Languages & Tools:
+
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Netbeans" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+</p>
+
+---
 
 <h3 align="left">GitHub stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&layout=compact" alt="TraiNguyen391" /></p>
