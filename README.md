@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://x.com/VikorizDekoil" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="@vikorizdekoil" height="30" width="30" /></a>
 <a href="https://www.facebook.com/sabervmv.cool.3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="tn nguyen" height="30" width="30" /></a>
-<a href="https://www.instagram.com/resonance391/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="123" height="30" width="40" /></a>
+<a href="https://www.instagram.com/resonance391?igsh=aTdvcGdjankybmR2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="123" height="30" width="40" /></a>
 <a href="http://discordapp.com/users/681832037073944616" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/741/082/non_2x/discord-logo-icon-social-media-icon-free-png.png" alt="resonance136" height="30" width="30" /></a>
 </p>
 
