@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="500" alt="Music Notes" />
+  <img src="https://media.giphy.com/media/26xBKqeFFIhSfq4di/giphy.gif" width="600" alt="DJ Neon" />
 </p>
 
 
