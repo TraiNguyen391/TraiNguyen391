@@ -68,6 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6nUROU8U0xQ1zUuI/giphy.gif" width="600" alt="Equalizer" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3GZpFXC/giphy.gif" width="250" alt="Headphones" />
 </p>
+
 
