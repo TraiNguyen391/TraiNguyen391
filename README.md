@@ -1,60 +1,68 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2" alt="Coding Banner" width="100%" style="max-height: 300px; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/7ea88ae1-4def-4a0f-8c98-d1022b670fe2" alt="Coding Banner" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 12px;" />
 </p>
 
-<h1 align="center">| Time flies, enjoy life |</h1>
+<!-- Title -->
+<h1 align="center" style="font-family: Orbitron, sans-serif; color:#00f0ff;">| ⚡ Time flies, enjoy life ⚡ |</h1>
 
+<!-- Trophies -->
 <p align="center">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical&margin-w=10&margin-h=10" alt="Trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=TraiNguyen391&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=000a99&style=plastic" alt="TraiNguyen391" /></p>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TraiNguyen391&label=Profile%20views&color=00f0ff&style=flat-square" alt="TraiNguyen391" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me:
 
 - 🎓 Currently studying at [FPT University](https://daihoc.fpt.edu.vn/)  
-- 🌱 Constantly learning new things in **IoT, Embedded Systems, Game Development**  
+- 🌱 Learning **IoT, Embedded Systems, Game Development**  
 - 🎮 Passionate about **Rhythm Games & Strategy Games**  
-- 📫 Reach me at: **ngoctrainguyen204@gmail.com**  
-- ⚡ Fun fact: *I often get addicted to coding late at night 😴*
+- 📫 Contact: **ngoctrainguyen204@gmail.com**  
+- ⚡ Fun fact: *I often get addicted to coding late at night 😴*  
 
 ---
 
 ## 🌐 Connect with me:
-<p align="left">
-<a href="https://x.com/VikorizDekoil" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="@vikorizdekoil" height="30" width="30" /></a>
-<a href="https://www.facebook.com/sabervmv.cool.3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="tn nguyen" height="30" width="30" /></a>
-<a href="https://www.instagram.com/resonance391?igsh=aTdvcGdjankybmR2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="123" height="30" width="40" /></a>
-<a href="http://discordapp.com/users/681832037073944616" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/741/082/non_2x/discord-logo-icon-social-media-icon-free-png.png" alt="resonance136" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://x.com/VikorizDekoil" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" height="30" /></a>
+  <a href="https://www.facebook.com/sabervmv.cool.3" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" height="30" /></a>
+  <a href="https://www.instagram.com/resonance391?igsh=aTdvcGdjankybmR2" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" /></a>
+  <a href="http://discordapp.com/users/681832037073944616" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/023/741/082/non_2x/discord-logo-icon-social-media-icon-free-png.png" alt="Discord" height="30" /></a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools:
-
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png" alt="Unity" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" style="margin: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png" alt="Unity" width="45" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" style="margin: 10px;" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&layout=compact" alt="TraiNguyen391" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TraiNguyen391&theme=neon&show_icons=true&locale=en" alt="TraiNguyen391" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=neon&show_icons=true" alt="TraiNguyen391" /></p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TraiNguyen391&theme=tokyonight&show_icons=true&locale=en&layout=compact&border_radius=12" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TraiNguyen391&theme=tokyonight&show_icons=true&locale=en&border_radius=12" alt="Stats" height="160"/>
+</div>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=tokyonight&border_radius=12" alt="Streak" /></p> -->
 
 ---
 
 ## 🎶 Fun Corner:
-
-> *"Code hard, play harder. Life's a rhythm — enjoy the beat!"*
+<p align="center" style="font-family: Orbitron, sans-serif; color:#00f0ff; font-size: 18px;">
+  "💻 Code hard, 🎮 play harder — life’s a rhythm, enjoy the beat!"
+</p>
 
 ---
