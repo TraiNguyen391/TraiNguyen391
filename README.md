@@ -62,8 +62,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&layout=compact&border_radius=12" alt="Top Languages" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&border_radius=12" alt="Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=neon&border_radius=12" alt="Streak" />
 </div>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=tokyonight&border_radius=12" alt="Streak" /></p>
 
 ---
 
