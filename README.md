@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center" style="font-family: Orbitron, sans-serif; color:#00f0ff;">| ⚡ Time flies, enjoy life ⚡ |</h1>
+<h1 align="center" style="font-family: Orbitron, sans-serif; color:#00f0ff;">| Time flies, enjoy life |</h1>
 
 <!-- Trophies -->
 <p align="center">
