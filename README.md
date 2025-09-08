@@ -51,18 +51,22 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&layout=compact&border_radius=12" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&border_radius=12" alt="Stats" height="160"/>
-</div>
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=tokyonight&border_radius=12" alt="Streak" /></p> -->
-
----
-
 ## 🎶 Fun Corner:
 <p align="center" style="font-family: Orbitron, sans-serif; color:#00f0ff; font-size: 18px;">
   "💻 Code hard, 🎮 play harder — life’s a rhythm, enjoy the beat!"
 </p>
 
 ---
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&layout=compact&border_radius=12" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TraiNguyen391&theme=neon&show_icons=true&locale=en&border_radius=12" alt="Stats" height="160"/>
+</div>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TraiNguyen391&theme=tokyonight&border_radius=12" alt="Streak" /></p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TraiNguyen391/TraiNguyen391/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
